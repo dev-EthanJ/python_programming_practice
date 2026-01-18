@@ -1,4 +1,4 @@
-# Do it! 점프 투 파이썬
+# Python Programming Practice with "Do it! 점프 투 파이썬"
 ## Chapter 03. 제어문
 ### 연습문제
 
