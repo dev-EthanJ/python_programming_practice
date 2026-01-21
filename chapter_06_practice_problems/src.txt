@@ -1,0 +1,3 @@
+Text	between	tab	tab	tab
+Text between spaces spaces
+Text    between    4spaces    four    spaces
